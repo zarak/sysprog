@@ -3,4 +3,4 @@ bin/
 foo
 bar
 rawio.out
-bufio.out rawio.out
+bufio.out
